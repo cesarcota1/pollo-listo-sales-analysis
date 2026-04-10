@@ -110,16 +110,16 @@ Insight: Clear and consistent pairing patterns across product categories.
 ## 📊 Visual Insights
 
 ### 📈 Sales by Day
-![Sales by Day](sql/sales_by_day.png)
+![Sales by Day](sales_by_day.png)
 
 ### ⏰ Sales by Hour
-![Sales by Hour](sql/sales_by_hour.png)
+![Sales by Hour](sales_by_hour.png)
 
 ### 🍗 Top Products
-![Top Products](sql/top_products.png)
+![Top Products](top_products.png)
 
 ### 📅 Sales by Day of Week
-![Sales by Weekday](sql/sales_by_weekday.png) 
+![Sales by Weekday](sales_by_weekday.png) 
 
 ## 🚀 Business Recommendations
 
