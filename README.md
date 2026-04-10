@@ -107,6 +107,19 @@ Insight: Clear and consistent pairing patterns across product categories.
 - Defined product pairing behavior  
 
 ---
+## 📊 Visual Insights
+
+### 📈 Sales by Day
+![Sales by Day](sql/sales_by_day.png)
+
+### ⏰ Sales by Hour
+![Sales by Hour](sql/sales_by_hour.png)
+
+### 🍗 Top Products
+![Top Products](sql/top_products.png)
+
+### 📅 Sales by Day of Week
+![Sales by Weekday](sql/sales_by_weekday.png) 
 
 ## 🚀 Business Recommendations
 
