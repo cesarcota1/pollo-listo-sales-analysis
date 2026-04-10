@@ -118,8 +118,6 @@ Insight: Clear and consistent pairing patterns across product categories.
 ### 🍗 Top Products
 ![Top Products](top_products.png)
 
-### 📅 Sales by Day of Week
-![Sales by Weekday](sales_by_weekday.png) 
 
 ## 🚀 Business Recommendations
 
