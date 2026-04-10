@@ -1,5 +1,7 @@
 # 🍗 Pollo Listo Sales Analysis
 
+---
+
 ## 📌 TL;DR
 
 - 🍗 50% of revenue comes from whole chicken  
@@ -34,9 +36,9 @@ The dataset comes from a POS system and includes:
 
 ---
 
-## 📈 Analysis
+## 📈 Key Analysis
 
-### KPIs
+### 📊 KPIs
 
 - Total revenue: $950,173  
 - Total tickets: 4,753  
@@ -44,38 +46,46 @@ The dataset comes from a POS system and includes:
 
 ---
 
-### 📅 Daily Sales
+### 📅 Daily Performance
 
 - Best day (excluding opening): 2025-12-21 ($15,956)  
 - Worst day: 2026-02-11 ($2,504)  
 
+Insight: High variability in daily sales performance.
+
 ---
 
-### 📅 Day of the Week
+### 📅 Weekly Behavior
 
 - Saturday: 18.81%  
 - Thursday: 10.35%  
 
-Insight: Strong dependency on weekend sales.
+Insight: Strong dependency on weekend sales, with Thursday consistently underperforming.
 
 ---
 
-### 🧾 Average Ticket
+### 🧾 Customer Spending
 
 - Highest on Sunday (~$209)  
 - Lowest on Thursday (~$193)  
 
+Insight: Customers tend to spend more during weekends.
+
 ---
 
-### 🍗 Products
+### 🍗 Product Performance
 
 - Whole chicken generates over 50% of total revenue  
+
+Insight: High reliance on a single product.
 
 ---
 
 ### 📊 Pareto Analysis
 
 - Top 3 products account for 66% of total revenue  
+
+Insight: Revenue is highly concentrated among a few key items.
 
 ---
 
@@ -84,14 +94,26 @@ Insight: Strong dependency on weekend sales.
 - Chicken → cold pasta  
 - Meat → guacamole  
 
+Insight: Clear and consistent pairing patterns across product categories.
+
 ---
 
-## 🚀 Recommendations
+## 💡 Key Insights
 
-- Create combo meals based on real customer behavior  
-- Implement promotions on Thursdays  
-- Optimize inventory for top-performing products  
-- Adjust staffing for peak hours and weekends  
+- Strong dependency on a single product (whole chicken ~50%)  
+- Weekend-driven revenue model  
+- Higher customer spending during weekends  
+- Clear opportunity to improve Thursday performance  
+- Defined product pairing behavior  
+
+---
+
+## 🚀 Business Recommendations
+
+- Create combo meals based on real purchase behavior  
+- Launch targeted promotions to boost Thursday sales  
+- Optimize inventory for high-performing products  
+- Adjust staffing based on peak demand patterns  
 
 ---
 
