@@ -120,7 +120,7 @@ Insight: Clear and consistent pairing patterns across product categories.
 
 ## 📊 Dashboard
 
-[View Interactive Dashboard]([pega_aquí_el_link](https://datastudio.google.com/reporting/b88bfb6c-4bdf-4d50-947a-a791af1a3595)
+(https://datastudio.google.com/reporting/b88bfb6c-4bdf-4d50-947a-a791af1a3595)
 
 ## 🚀 Business Recommendations
 
